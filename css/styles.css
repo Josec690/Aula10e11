@@ -1,0 +1,73 @@
+
+nav{
+    font-size: 12px;
+}
+
+.block_element{
+    display: block;
+    background-color: lightblue;
+}
+
+.inline_element{
+    display: block;
+    background-color: lightgreen;
+}
+
+.inline_block_element{
+   display: inline-block;
+   width: 200px;
+   height: 100px;
+   background-color: lightcoral;
+   margin-right: 10px;
+}
+
+
+
+#souID {
+    margin: 2% 2% 2% 2%;
+  
+    background-color: yellow;
+}
+
+.souClass {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 5%;
+    background-color: chocolate;
+}
+
+
+
+.flex-container-start{
+    display: flex;
+    justify-content: flex-start;
+    background-color: orange;
+}
+
+
+
+.flex-container-end{
+    display: flex;
+    justify-content: flex-end;
+    background-color: aquamarine;
+}
+
+.flex-container-center{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+
+.flex-container-around{
+    display: flex;
+    justify-content:space-around;
+    background-color: cornflowerblue;
+}
+
+.flex-container-between{
+    display: flex;
+
+    justify-content:space-between;
+    background-color: darkcyan;
+}
+
